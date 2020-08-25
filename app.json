@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Avatar",
+    "slug": "chatt",
+        "privacy": "public",
+    "sdkVersion": "38.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/talk.png",
+    "splash": {
+      "image": "./assets/2.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#242832"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+            "bundleIdentifier": "com.staskzn.avatarrnapp",
+      "buildNumber": "1.0.0"
+    },
+ "android": {
+        "package": "com.staskzn.avatarrnapp",
+        "versionCode": 1,
+ }
+ 
+    }
+
+}
